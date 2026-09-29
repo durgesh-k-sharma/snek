@@ -1,0 +1,13 @@
+# Build outputs
+*.o
+/snake
+/interactive-snake
+/unit-tests
+
+# Local editor and operating system files
+.DS_Store
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
